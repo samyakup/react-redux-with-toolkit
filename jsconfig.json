@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        // ...rest of the template
+        "paths": {
+            "@/*": [
+                "./src/*"
+            ]
+        }
+    },
+    "include": [
+        "src"
+    ],
+}
